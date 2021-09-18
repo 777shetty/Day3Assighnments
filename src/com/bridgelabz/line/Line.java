@@ -1,0 +1,8 @@
+package com.bridgelabz.line;
+
+public class Line {
+	public static void main(String[] args) {
+		System.out.println("Welcome to Line Program");
+	}
+
+}
